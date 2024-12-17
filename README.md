@@ -5,7 +5,7 @@ This project classifies emotions (e.g., angry, happy, sad) from audio files usin
 
 ---
 
-## **What We Are Doing **
+## What We Are Doing
 1. **Extract Features**:
    - MFCC (Mel-Frequency Cepstral Coefficients)
    - RMS Energy
